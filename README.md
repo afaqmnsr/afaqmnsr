@@ -1,4 +1,4 @@
-- 🔭 I’m currently working as an SQA/Scrum Master
+- 🔭 I’m currently working as a Product Manager
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Web Projects
 - 💬 Ask me about anything
