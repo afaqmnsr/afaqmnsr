@@ -2,7 +2,7 @@
 <h3 align="center">Senior Fullstack Developer · Stavanger, Norway</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/afaqmnsr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/afaqmnsr/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:afaqmnsr0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/afaqmnsr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -25,7 +25,7 @@ On the side, I'm digging into TanStack Start, agent frameworks, and the Model Co
 
 ### Open to opportunities
 
-Looking for senior or staff fullstack, platform, or integration-heavy roles. Based in Norway, no work permit required, remote-friendly. Reach me via [email](mailto:afaqmnsr0@gmail.com) or [LinkedIn](https://www.linkedin.com/in/afaqmnsr/).
+Looking for senior or staff fullstack, platform, or integration-heavy roles. Based in Norway, no work permit required, remote-friendly. Reach me via <a href="mailto:afaqmnsr0@gmail.com">email</a> or <a href="https://www.linkedin.com/in/afaqmnsr/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
 
 ---
 
